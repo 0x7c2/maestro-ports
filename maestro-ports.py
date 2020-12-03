@@ -1,7 +1,7 @@
 #
 # Copyright 2020 by 0x7c2, Simon Brecht.
 # All rights reserved.
-# This file is part of the Report/Analytic Tool - CPme,
+# This file is part of the maestro-ports repository,
 # and is released under the "Apache License 2.0". Please see the LICENSE
 # file that should have been included as part of this package.
 #
